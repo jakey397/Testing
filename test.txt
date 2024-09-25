@@ -8,3 +8,4 @@ This is seventh line
 This is Eighth line
 This is ninth line
 This is tenth line
+logo alignment ok
